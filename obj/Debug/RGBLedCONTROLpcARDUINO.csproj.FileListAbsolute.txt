@@ -1,0 +1,28 @@
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedColorPicker.Form1.resources
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedCONTROLpcARDUINO.csproj.GenerateResource.Cache
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedCONTROLpcARDUINO.csprojResolveAssemblyReference.cache
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\RGBLedCONTROLpcARDUINO.exe.config
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\RGBLedCONTROLpcARDUINO.exe
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\RGBLedCONTROLpcARDUINO.pdb
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedCONTROLpcARDUINO.Properties.Resources.resources
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedCONTROLpcARDUINO.exe
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedCONTROLpcARDUINO.pdb
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedCONTROLpcARDUINO.AboutBox1.resources
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\RGBLedCONTROLpcARDUINO.exe.manifest
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\RGBLedCONTROLpcARDUINO.application
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedCONTROLpcARDUINO.exe.manifest
+C:\Users\3L1M1N470RC4P0\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RGBLedCONTROLpcARDUINO.application
+D:\C# TEST MAP\RGB TEST com port\bin\Debug\RGBLedCONTROLpcARDUINO.exe.config
+D:\C# TEST MAP\RGB TEST com port\bin\Debug\RGBLedCONTROLpcARDUINO.exe.manifest
+D:\C# TEST MAP\RGB TEST com port\bin\Debug\RGBLedCONTROLpcARDUINO.application
+D:\C# TEST MAP\RGB TEST com port\bin\Debug\RGBLedCONTROLpcARDUINO.exe
+D:\C# TEST MAP\RGB TEST com port\bin\Debug\RGBLedCONTROLpcARDUINO.pdb
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedCONTROLpcARDUINO.csprojResolveAssemblyReference.cache
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedCONTROLpcARDUINO.AboutBox1.resources
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedColorPicker.Form1.resources
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedCONTROLpcARDUINO.Properties.Resources.resources
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedCONTROLpcARDUINO.csproj.GenerateResource.Cache
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedCONTROLpcARDUINO.exe.manifest
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedCONTROLpcARDUINO.application
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedCONTROLpcARDUINO.exe
+D:\C# TEST MAP\RGB TEST com port\obj\Debug\RGBLedCONTROLpcARDUINO.pdb
