@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RGBLedCONTROLpcARDUINO.exe" version="1.0.0.2" publicKeyToken="cbe9e538491962c4" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="if_Colours_RGB_65528.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RGBLedCONTROLpcARDUINO" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="RGBLedCONTROLpcARDUINO.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RGBLedCONTROLpcARDUINO.exe" size="4402200">
+      <assemblyIdentity name="RGBLedCONTROLpcARDUINO" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6IyAH/neLRaG696X58ep5F66oV96922MgS5cQTDe7hM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Apps-Arduino.ico" size="46009">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nsu89xFgIswpaypz2joaF4ADRHGhYtIZlrdVuQVCdjo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="if_Colours_RGB_65528.ico" size="9662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XfM4DwRFyU/KgxYP7zp9ZYhmZPUQ4bnGrgNGbiRTs8U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="RGBLedCONTROLpcARDUINO.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=3L1M1N470RC\3L1M1N470RC4P0" issuerKeyHash="8f98db529fe4578ec4976dc1ec4a6703f5fa8db8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5IUyWXvQqbBl+KL3yqMJbB84VQxEupV1zLALV8izQmA=</DigestValue></Reference></SignedInfo><SignatureValue>rRbRk9mbnSICnvgOKkNN6iMY0VyQhK8XzCH6pcLrtmIWuw8GYneBgW9OfHooRaJCqYvv+AB4Uyyd3H8O1BsW8UQVrEc5U7uBmoOUNvnzuuyqANt0PSoyrIr2WE/b7NKpwsOPhsIcoO8KEaw/MGJ23nQjwt/+ipLhKGSNeDPz1ZA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>60A2Xjq5vinLuYAEZUcNb8ej7qWG5kQYSIhZWK3cqbzvLsGh6l6wVWkMHgOMCVDC+YJr3ScpDHqvqIPCyGZs/+rfHUCykthVeJYdcqASHGTImVoOcAPhJWMY3ne0TPOQp9NOE7ZnozMjUToSehoSpo1VeCyGY9mrUfHN0ZnvH0M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6042b3c8570bb0cc7595ba440c55381f6c09a3caf7a2f865b0a9d07b593285e4" Description="" Url=""><as:assemblyIdentity name="RGBLedCONTROLpcARDUINO.exe" version="1.0.0.2" publicKeyToken="cbe9e538491962c4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=3L1M1N470RC\3L1M1N470RC4P0</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jWMYkrUW1ZhIo9R9WyRfa0mMtW6e9HUsTCho0uYPTWk=</DigestValue></Reference></SignedInfo><SignatureValue>VjPGUcwH9kra8ya5RdaVdLMdLRadA3Glmdy1qyNCxbKKAktHCdqQA3lOkVKpEp+ZaG56WJMhYZ2fm3TcMH3drrMxAzNryia+rdqlT4korEIWsuRLn5MLW07kZlPNJMaRfAz/U6GE/yUQylzbErf1qEzERvKcFqBZ66/2gKbf+wQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>60A2Xjq5vinLuYAEZUcNb8ej7qWG5kQYSIhZWK3cqbzvLsGh6l6wVWkMHgOMCVDC+YJr3ScpDHqvqIPCyGZs/+rfHUCykthVeJYdcqASHGTImVoOcAPhJWMY3ne0TPOQp9NOE7ZnozMjUToSehoSpo1VeCyGY9mrUfHN0ZnvH0M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQR7KWTo7wd4lIZ/KYxffFSTANBgkqhkiG9w0BAQsFADA/MT0wOwYDVQQDHjQAMwBMADEATQAxAE4ANAA3ADAAUgBDAFwAMwBMADEATQAxAE4ANAA3ADAAUgBDADQAUAAwMB4XDTE3MDcyNTAyNTkyMFoXDTE4MDcyNTA4NTkyMFowPzE9MDsGA1UEAx40ADMATAAxAE0AMQBOADQANwAwAFIAQwBcADMATAAxAE0AMQBOADQANwAwAFIAQwA0AFAAMDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA60A2Xjq5vinLuYAEZUcNb8ej7qWG5kQYSIhZWK3cqbzvLsGh6l6wVWkMHgOMCVDC+YJr3ScpDHqvqIPCyGZs/+rfHUCykthVeJYdcqASHGTImVoOcAPhJWMY3ne0TPOQp9NOE7ZnozMjUToSehoSpo1VeCyGY9mrUfHN0ZnvH0MCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCjYi46j+06pNQkeBfeYOeLq2eTRRCKMhQHju21LWjN8CZIxNB8G4OtkdrTiBqhlGNPSG7fSoCDfQufobulaMK4R0P4ntspzZ3ixgBFt0ygsZkfYibASABROVBKEYZx1uMTjtJonNpag4288/3uC8c81zg07L8jouxDPPdLrQ+qDQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
