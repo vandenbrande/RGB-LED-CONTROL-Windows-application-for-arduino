@@ -37,13 +37,12 @@ private void button1_Click_1(object sender, EventArgs e)
    SetColor(Color.Red);
   }
 
-=================
+
 The color panel: 
 (Windows color dialog)
 Press the Color Panel button to open the Color Dialog. 
 Not all colors work form the Color Dialog because RGB Leds cannot generate any color from every value, 
 But it gives you a wide choice of colors that can be used.
-=================
 
 HOW to modify?:
 Files you modify in the C# source are the following. Form1.cs & Form.1Designer.cs 
