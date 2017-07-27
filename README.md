@@ -1,5 +1,6 @@
 # RGB-LED-CONTROL-Windows-application-for-arduino
 C# Application to control RGB Leds, or LED Strips with arduino.
+READ the wiki!
 
 Hello world! Today i made a c# Application with visual studio to control RGB Leds/Led strips. The Arduino code is very simple.
 The source is open to modify and included in this description.
